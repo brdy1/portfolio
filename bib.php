@@ -1,21 +1,5 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Three Short Stories by W. B. Yeats - Bibliography</title>
-  <meta name="description" content="View the bibliography for Brady's thesis.">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/style.css">
-   
-</head>
 
-<body>
-
-<div class="wrap">
-
-<header class="banner">
-
-<img class="logo" src="images/logo.png" alt="BP Logo" width="110" height="100">
+  <?php require_once('includes/codehead.php');?>
 
 <h1>Brady's Portfolio</h1>
 <h2>Thesis - Three Short Stories by W. B. Yeats, Introduced and Annotated</h2>

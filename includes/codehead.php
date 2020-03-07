@@ -21,3 +21,10 @@
 
     <link rel="stylesheet" href="css/style.css"/>
 </head>
+<body>
+
+<div class="wrap">
+
+<header class="banner">
+
+<img class="logo" src="images/logo.png" alt="BP Logo" width="110" height="110">

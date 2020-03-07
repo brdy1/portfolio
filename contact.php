@@ -58,7 +58,7 @@
 
 <header class="banner">
 
-<img class="logo" src="images/logo.png" alt="BP Logo" width="110" height="100">
+<img class="logo" src="images/logo.png" alt="BP Logo" width="110" height="110">
 
 <h1>Brady's Portfolio</h1>
 <h2>Contact Form</h2>

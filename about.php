@@ -1,24 +1,8 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Brady's Portfolio - About</title>
-  <meta name="description" content="Learn about Brady's background, education, and interests.">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/style.css">
+
+  <?php require_once('includes/codehead.php');?>
     
-</head>
-
-<body>
-
-<div class="wrap">
-
-<header class="banner">
-
-<img class="logo" src="images/logo.png" alt="BP Logo" width="110" height="100">
-
 <h1>Brady's Portfolio</h1>
-<h2>About Me</h2>
+<h2>About</h2>
 
 <?php include('includes/menu.php');?>
 
