@@ -11,7 +11,7 @@ $(document).ready(function() {
         { 
             $('.ui-widget-overlay').bind('click', function()
             { 
-                $detailsContainer.dialog('close'); 
+                detailsContainer.dialog('close'); 
             }); 
         }
     });
