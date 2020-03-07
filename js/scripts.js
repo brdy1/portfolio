@@ -6,14 +6,14 @@ $(document).ready(function() {
         modal: true,
         resizable: false,
         closeOnEscape: true,
-        close: function(event, ui) { $('#wrap').show(); },
-    open: function(event, ui) 
-    { 
-        $('.ui-widget-overlay').bind('click', function()
+        close: function(event, ui) { detailsContainer.show(); },
+        open: function(event, ui) 
         { 
-            $("#popup").dialog('close'); 
-        }); 
-    }
+            $('.ui-widget-overlay').bind('click', function()
+            { 
+                $detailsContainer.dialog('close'); 
+            }); 
+        }
     });
 
     $('.annotation').click(function() {
@@ -27,8 +27,4 @@ $(document).ready(function() {
 
         detailsContainer.dialog('open');
     });
-})
-
-$field_hint.bind('clickoutside',function(){
-    $field_hint.dialog('close');
 });
