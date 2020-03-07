@@ -14,11 +14,6 @@
 <h3>Harry Potter & Alchemy</h3>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAeH9kKk_9HF_vksCFdgIDcD8a9oNTqpgjq0OwURp_efDBoxs_K2M1qoup9z6LMMgjlzFvhixgubm7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<h3>Nailing the Interview</h3>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQflfBbdRhW2K4IuJLya25BNXIIZRryMJ9tkwMC0St0vx4Jt_EyUwWMGHQmx2HffgR3s5mv7Zi5Cp1Z/embed?start=false&loop=false&delayms=10000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-
 </main>
 
 <aside class="sidebar">
