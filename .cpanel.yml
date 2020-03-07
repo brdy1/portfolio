@@ -1,0 +1,15 @@
+---
+deployment
+  tasks
+    - export DEPLOYPATH=/home/bk0h6bfnv8lh/portfolio
+    /bin/cp -R php $DEPLOYPATH
+    /bin/cp -R images $DEPLOYPATH
+    /bin/cp -R js $DEPLOYPATH
+    /bin/cp -R css $DEPLOYPATH
+    /bin/cp -R includes $DEPLOYPATH
+    /bin/cp index.php $DEPLOYPATH
+    /bin/cp thesis.php $DEPLOYPATH
+    /bin/cp alchemica.php $DEPLOYPATH
+    /bin/cp magi.php $DEPLOYPATH
+    /bin/cp tables.php $DEPLOYPATH
+    /bin/cp bib.php $DEPLOYPATH
