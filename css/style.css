@@ -140,6 +140,13 @@ iframe {
 	background: #333333;
 }
 
+.sidebar a:link {
+	color: lightgray;
+}
+.sidebar a:visited {
+	color: lightgray;
+}
+
 .footer {
 	color: white !important;
 	clear: both;
