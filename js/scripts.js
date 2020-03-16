@@ -5,7 +5,15 @@ $(document).ready(function() {
         autoOpen: false,
         modal: true,
         resizable: false,
-        closeOnEscape: true
+        closeOnEscape: true,
+        close: function(event, ui) { detailsContainer.show(); },
+        open: function(event, ui) 
+        { 
+            $('.ui-widget-overlay').bind('click', function()
+            { 
+                detailsContainer.dialog('close'); 
+            }); 
+        }
     });
 
     $('.annotation').click(function() {
@@ -19,4 +27,4 @@ $(document).ready(function() {
 
         detailsContainer.dialog('open');
     });
-})
+});

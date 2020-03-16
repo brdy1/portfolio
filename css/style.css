@@ -133,11 +133,18 @@ iframe {
 	}
 
 .sidebar {
-	color: black;
+	color: lightgray;
 	float: left;
 	width: 27%;
 	padding: 2.777777%;
-	background: #AEAEAE;
+	background: #333333;
+}
+
+.sidebar a:link {
+	color: lightgray;
+}
+.sidebar a:visited {
+	color: lightgray;
 }
 
 .footer {

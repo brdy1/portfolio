@@ -7,7 +7,7 @@
     foreach($lines as $line) {
         //Explode the line into an array
         list($spanId, $spanBody, $imgFlag, $imgWidth, $imgHeight) = explode ('|', $line, 5);
-        //Trim first and last variables of special characters
+        //Trim first and last variables of special characters. -- str_replace() + trim() may be redundant?
         $spanId = str_replace("\n", '', trim($spanId,"\t\n\r\0\x0B"));
         $imgHeight = str_replace("\n", '', trim($imgHeight,"\t\n\r\0\x0B"));
         //Print the line of code
