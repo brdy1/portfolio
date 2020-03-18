@@ -20,4 +20,4 @@
         //Close the span element and end the line
         echo '</span>'."\n";
     }
-?>
+?> 

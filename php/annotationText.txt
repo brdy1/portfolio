@@ -129,7 +129,7 @@ joachim|Joachim de Fiore, or Joachim of Fiore (c. 1135-1202), Italian mystic and
 cortale|A town in the province Catanzaro in the Calabria region of southern Italy.|no||
 apocalypsin|Latin, <em>Explanation of the Revelation</em>|no||
 kingdomfather|In Fiore's philosophy, the Kingdom of the Father preceded the incarnation of Christ and was marked by an obedience to the law.|no||
-kingdomson|The Kingdom of the Son, according to Fiore, was the period following the incarnation of Christ, marked by Man becoming the son of God and reedeming mankind.|no||
+kingdomson|The Kingdom of the Son, according to Fiore, was the period following the incarnation of Christ, marked by Christ's incarnation as the son of God and reedeming mankind.|no||
 kingdomspirit|The Kingdom of the Spirit was yet to come for Fiore and would be marked by a direct contact with God and a spreading of universal love preached by Jesus in the gospel.|no||
 spiritualis|Latin, intelligence pertaining to the spirit; spiritual understanding.|no||
 deadletter|See 2 Corinthians 3:6: “...for the letter kills, but the Spirit gives life.”|no||
