@@ -33,8 +33,6 @@
 	<li><a href="bib.php">Bibliography</a></li>
 </ul>
 
-<?php include('includes/podcast.php');?>
-
 </aside>
 
 <br class="clear">
